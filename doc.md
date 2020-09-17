@@ -80,6 +80,8 @@ On gagne lorsqu'un effet indique que l'on gagne ou lorsque son adversaire a perd
 
 Il existe 5 couleurs de mana. Le Blanc (W), le Bleu (U), le Noir (B), le Rouge (R), le Vert (G). Il existe également le mana incolore (C) et le mana générique (1). Le mana générique se trouve uniquement dans les coûts et ne donne aucune contrainte de couleur (ou non-couleur).
 
+!(https://media.mtgsalvation.com/attachments/78/580/635032491774708003.png)
+
 # Lancer un sort, activer une capacité
 
 Prenons un exemple :
