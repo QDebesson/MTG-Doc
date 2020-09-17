@@ -26,7 +26,7 @@ Ce sont des cartes qui ne passeront pas sur le champ de bataille.
 - Les Rituels : ils sont très similaires aux Éphèmeres à l'exception du timing auquel on peut les lancer. On ne peut lancer un Rituel que durant son tour, en phase principale, lorsque la Pile est vide.
 
 ### Les sorts
-Dans Magic, tout est un sort, ou presque ! Les sorts sont "lancés" et passent par la Pile. Un sort est une carte non-terrain qui est mise dans la Pile. Il existe donc des sorts de créature et des sorts non-créatures.
+Dans Magic, tout est un sort, ou presque ! Parmi tous les types évoqués précédemment, seuls les terrains NE sont PAS des sorts. Les sorts sont "lancés" et passent par la Pile. Un sort est une carte non-terrain qui est mise dans la Pile. Il existe donc des sorts de créature et des sorts non-créatures.
 
 ### Les capacités
 Certaines cartes ont des lignes de texte supplémentaires. Ce sont des capacités. Il en existe plusieurs catégories :
