@@ -44,7 +44,7 @@ Les jetons sont des permanents qui ne sont pas directement issus d'une carte cla
 ## Structure classique d'un tour
 
 Un tour se déroule selon plusieurs phases (et étapes).
-- Dégagement : la première action à effectuer. Il s'agit de redresser ses cartes droites (défaire l'action d'"engagement"). On dégage tous les permanents que l'on contrôle (créatures, terrains, …). Aucun joueur re peut effectuer d'autres actions à ce moment-là.
+- Dégagement : la première action à effectuer. Il s'agit de redresser ses cartes à la verticale (défaire l'action d'"engagement"). On dégage tous les permanents que l'on contrôle (créatures, terrains, …). Aucun joueur re peut effectuer d'autres actions à ce moment-là.
 - Entretien
 - Pioche : le joueur actif pioche une carte.
 - Première phase principale : Le joueur actif peut effectuer différentes actions à ce moment-là. Il est possible de jouer un terrain (si aucun autre n'a été joué ce tour-ci), de lancer tout types de sorts (notamment les sorts non-éphémères qui ne peuvent être joués qu'à ce moment-là).
@@ -82,9 +82,17 @@ Il existe 5 couleurs de mana. Le Blanc (W), le Bleu (U), le Noir (B), le Rouge (
 
 # Lancer un sort, activer une capacité
 
-Prenons l'exemple de "Épée à louer d'Havrefalaise" {1W}. En haut à droite se trouve son coût en mana, ici 1 générique et Blanc. Pour lancer ce sort de créature, on révèle la carte et on paye son coût en mana, ici 1W. On peut utiliser deux mana blanc, ou un rouge et blanc, ou … bref, n'importe quoi et blanc. Une fois que c'est fait, le sort est mis dans la pile. Si l'adversaire n'a rien à y redire, alors le sort résoud et on pose la carte de créature sur le champ de bataille. Le sort est résolu !
+Prenons un exemple :
 
-Il existe des sorts plus compliqués à lancer. Prenons un autre exemple : "Pourfendre le Monstrueux" (3W). Il s'agit d'un éphémère permettant de détruire une créature. La spécificité se trouve dans le mot "ciblé". Lorsque l'on lance un sort nécessitant des "cibles", il est nécessaire de les annoncer dès que l'on met le sort en pile. Il n'est pas possible d'attendre le dernier moment pour faire son choix. Il faut également choisir une cible valide. Dans ce cas-ci, une créature de force supérieure ou égale à 4. Si pour une raison ou une autre, le sort n'a plus aucune cible légale au moment où notre sort devrait se résoudre, alors il est contré et va au cimetière sans aucun effet.
+!["Épée à louer d'Havrefalaise" {1W}](https://www.parkage.com/files/img/products/magic/cu/znr/vf/008.jpg?timestamp=20200914121514)
+
+En haut à droite se trouve son coût en mana, ici 1 générique et Blanc. Pour lancer ce sort de créature, on révèle la carte et on paye son coût en mana, ici 1W. On peut utiliser deux mana blanc, ou un rouge et blanc, ou … bref, n'importe quoi et blanc. Une fois que c'est fait, le sort est mis dans la pile. Si l'adversaire n'a rien à y redire, alors le sort résoud et on pose la carte de créature sur le champ de bataille. Le sort est résolu !
+
+Il existe des sorts plus compliqués à lancer. Prenons un autre exemple :
+
+!["Pourfendre le Monstrueux" (3W)](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=403238&type=card)
+
+Il s'agit d'un éphémère permettant de détruire une créature. La spécificité se trouve dans le mot "ciblé". Lorsque l'on lance un sort nécessitant des "cibles", il est nécessaire de les annoncer dès que l'on met le sort en pile. Il n'est pas possible d'attendre le dernier moment pour faire son choix. Il faut également choisir une cible valide. Dans ce cas-ci, une créature de force supérieure ou égale à 4. Si pour une raison ou une autre, le sort n'a plus aucune cible légale au moment où notre sort devrait se résoudre, alors il est contré et va au cimetière sans aucun effet.
 De même, certains sorts demandent à faire d'autres choix, comme choisir des modes. Ceux-ci doivent être choisis lors du lancement.
 
 Pour activer une capacité activée, l'idée est la même. On reconnait une capacité activée au texte ayant le format : "{Coût} : {Effet}". Les coûts peuvent être très variés, allant d'engager le permanent en question, à payer du mana, des points de vie, ou même sacrifier ses propres créatures ! Une fois le coût payé et les cibles données, la capacité va dans la pile avant de se résoudre.
