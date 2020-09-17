@@ -9,7 +9,7 @@ How to play MTG -- by Kiou Dee
 - Le Cimetière : il s'agit d'une sorte de défausse. On y met les créatures qui sont mortes ou les cartes qui ont été jouées et qui ne restent pas en jeu.
 - Le Champ de bataille : c'est là que l'on trouve les cartes de créatures qui ont été lancées ainsi que les terrains, et autres "permanents".
 - L'Exil : ce qui rentre dans l'exile n'en ressort pas. Naturellement, rien ne va dans l'exil, mais certains effets vont demander "d'exiler" quelque chose. C'est là qu'on y met ces cartes-là.
-- La Pile : tout sort lancé passe d'abord dans la pile avant de se résoudre (et d'avoir un impact).
+- La Pile : tout sort lancé passe d'abord dans la pile avant de se résoudre (et d'avoir un impact). Le dernier élément ajouté est le premier qui est retiré lors de la résolution.
 
 ## Les types de cartes
 
